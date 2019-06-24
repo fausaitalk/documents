@@ -1,2 +1,2 @@
-# 扫码关注公众号，长期推送技术文章
+# 请扫码关注
 ![image](https://github.com/githubgavin/documents/blob/master/fausai_talk.jpg)
